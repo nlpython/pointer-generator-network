@@ -1,10 +1,10 @@
 
 /decode_results/
 
-/logs/
+/logs/*.log
 
 /software_data/cache/*
 
 /software_data/*.json
 
-/checkpoints/
+/checkpoints/*
