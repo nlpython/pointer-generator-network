@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/decode_results/rouge_dec_dir/000000_decoded.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/decode_results/rouge_dec_dir/000002_decoded.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/decode_results/rouge_ref/000000_reference.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/decode_results/rouge_ref/000001_reference.txt" charset="GBK" />
+  </component>
+</project>

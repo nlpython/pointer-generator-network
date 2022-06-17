@@ -1,0 +1,10 @@
+
+/decode_results/
+
+/logs/
+
+/software_data/cache/*
+
+/software_data/*.json
+
+/checkpoints/
