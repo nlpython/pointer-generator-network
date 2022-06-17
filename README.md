@@ -1,3 +1,5 @@
+# pointer-generator-network
+
 论文[Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)的pytorch实现。
 
 ## 1. 数据预处理
@@ -37,6 +39,3 @@
 - [atulkum/pointer_summarizer: pytorch implementation of "Get To The Point: Summarization with Pointer-Generator Networks" (github.com)](https://github.com/atulkum/pointer_summarizer)
 - [abisee/pointer-generator: Code for the ACL 2017 paper "Get To The Point: Summarization with Pointer-Generator Networks" (github.com)](https://github.com/abisee/pointer-generator)
 
-# pointer-generator-network
-# pointer-generator-network
-# pointer-generator-network
