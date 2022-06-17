@@ -16,19 +16,31 @@
 
 存入`software_data`文件夹，并命名为`train.json`，`dev.json`。
 
-`python precess.py`构建`vocab`，词表大小可在`processing/hyper_parm.py`中调整。
+构建`vocab`，词表大小可在`processing/hyper_parm.py`中调整。
+
+```
+python precess.py
+```
 
 分词工具采用北大开源`pkuseg`，如需详细了解请点击[lancopku/pkuseg-python: pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation (github.com)](https://github.com/lancopku/pkuseg-python)
 
 ## 2. 训练
 
-`python train.py`，训练日志会存放在`/logs`，模型参数会保存至`/checkpoints`。
+```
+python train.py
+```
+
+训练日志会存放在`/logs`，模型参数会保存至`/checkpoints`。
 
 日志打印采用`loguru`，详细了解[Delgan/loguru: Python logging made (stupidly) simple (github.com)](https://github.com/Delgan/loguru)
 
 ## 3. 推理
 
-`python eval.py`
+```
+python eval.py
+```
+
+
 
 
 
